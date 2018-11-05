@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E68F-F312
+
+ Directory of C:\Users\Charlie\Desktop\Git\DemoProject
+
+05-11-2018  11:14 PM    <DIR>          .
+05-11-2018  11:14 PM    <DIR>          ..
+05-11-2018  11:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  60,682,649,600 bytes free
